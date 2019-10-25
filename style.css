@@ -1,7 +1,12 @@
 header{
-    font-family:Pacifico;
+    font-family:Pacifico, cursive;
+    
 }
 
 h2{
-    font-family:Pacifico;
+    font-family:Pacifico, cursive;
+}
+
+#mainBody{
+    font-family: 'Lato', sans-serif
 }
